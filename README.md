@@ -1,5 +1,5 @@
 # z-stack-cell-detection
 
-The code will be made available on the date of publication of our article "Single cell line training for generalized cell detection from brightfield z-stacks".
+The code for article "Iterative semi-supervised domain adaptation for generalized cell detection from brightfield z-stacks" will be made available by 31.10.2018, at the latest.
 
-Data and annotations are provided on the same date in CSC IDA service.
+Data and annotations will be provided by the same date in CSC IDA service.
