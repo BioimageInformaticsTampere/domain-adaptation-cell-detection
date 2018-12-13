@@ -1,0 +1,7 @@
+{
+    "trainpath": "/media/liimatak/My Passport/focus_da_publishing/cells_public/train",
+    "testpath": "/media/liimatak/My Passport/focus_da_publishing/cells_public/test", 
+    "resultpath": "results",
+    "imshapex": "1596",
+    "imshapey": "1196"
+}
