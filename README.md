@@ -9,5 +9,5 @@ We recommend using GPU for faster execution. For training the models, Geforce GT
 
 In addition to basic python (version 3.5 or higher) packages, keras with Tensorflow backend is required. 
 
-Data and annotations can temporarily be found at http://compbio.uta.fi/ruusuvuori/focus_data/ under licence CC BY-NC-SA.
+Data and annotations can temporarily be found at https://binf.rd.tuni.fi/projects/focus_data/ under licence CC BY-NC-SA.
 
